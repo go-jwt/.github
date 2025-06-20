@@ -12,5 +12,7 @@
 -->
 
 The current project is no longer being maintained.
+
 Please use `golang-jwt`.
+
 If `golang-jwt` wants to use `go-jwt`, please contact us.
